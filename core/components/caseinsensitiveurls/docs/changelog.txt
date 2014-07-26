@@ -1,5 +1,13 @@
 Changelog for CaseInsensitiveURLs
 
+CaseInsensitiveURLs 1.2.0
+---------------------------------
+Update for MODX 2.3
+
+CaseInsensitiveURLs 1.0.1
+---------------------------------
+Added license to Plugin code
+
 CaseInsensitiveURLs 1.0.0
 ---------------------------------
 Initial Version

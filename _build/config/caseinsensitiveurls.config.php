@@ -16,14 +16,14 @@ $components = array(
     'packageName' => 'CaseInsensitiveURLs',  /* No spaces, no dashes */
     'packageNameLower' => $packageNameLower,
     'packageDescription' => 'Redirects page requests for mixed-case URLs to lowercase version',
-    'version' => '1.0.0',
-    'release' => 'beta1',
+    'version' => '1.2.0',
+    'release' => 'pl',
     'author' => 'Bob Ray',
     'email' => '<http://bobsguides.com>',
     'authorUrl' => 'http://bobsguides.com',
     'authorSiteName' => "Bob's Guides",
     'packageDocumentationUrl' => 'http://bobsguides.com/caseinsensitiveurls-tutorial.html',
-    'copyright' => '2012',
+    'copyright' => '2012-2014',
 
     /* no need to edit this except to change format */
     'createdon' => strftime('%m-%d-%Y'),
