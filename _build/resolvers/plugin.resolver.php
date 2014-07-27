@@ -2,7 +2,7 @@
 /**
 * Resolver to connect plugins to system events for CaseInsensitiveURLs extra
 *
-* Copyright 2012 by Bob Ray <http://bobsguides.com>
+* Copyright 2012-2014 by Bob Ray <http://bobsguides.com>
 * Created on 12-20-2012
 *
  * CaseInsensitiveURLs is free software; you can redistribute it and/or modify it under the

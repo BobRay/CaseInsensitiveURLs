@@ -2,7 +2,7 @@
 /**
  * plugins transport file for CaseInsensitiveURLs extra
  *
- * Copyright 2012 by Bob Ray <http://bobsguides.com>
+ * Copyright 2012-2014 by Bob Ray <http://bobsguides.com>
  * Created on 12-20-2012
  *
  * @package caseinsensitiveurls
@@ -26,13 +26,15 @@ if (! function_exists('stripPhpTags')) {
 $plugins = array();
 
 $plugins[1] = $modx->newObject('modPlugin');
-$plugins[1]->fromArray(array(
-    'id' => '1',
-    'property_preprocess' => '',
-    'name' => 'CaseInsensitiveUrls',
-    'description' => 'Converts URLs to lowercase when page is not found',
-    'properties' => array(),
-    'disabled' => '',
+$plugins[1]->fromArray(array (
+  'id' => 1,
+  'property_preprocess' => false,
+  'name' => 'CaseInsensitiveUrls',
+  'description' => 'Converts URLs to lowercase when page is not found',
+  'properties' => 
+  array (
+  ),
+  'disabled' => true,
 ), '', true, true);
 $plugins[1]->setContent(file_get_contents($sources['source_core'] . '/elements/plugins/caseinsensitiveurls.plugin.php'));
 

@@ -48,7 +48,6 @@ $components = array(
     'targetRoot' => MODX_ASSETS_PATH . 'mycomponents/' . $packageNameLower . '/',
 
 
-
     /* ************************ NAMESPACE(S) ************************* */
     /* (optional) Typically, there's only one namespace which is set
      * to the $packageNameLower value. Paths should end in a slash
