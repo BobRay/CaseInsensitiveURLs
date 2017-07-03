@@ -2,13 +2,13 @@
 CaseInsensitiveURLs
 
 
-Author: Bob Ray <http://bobsguides.com>
-Copyright 2012
+Author: Bob Ray <https://bobsguides.com>
+Copyright 2012-2017
 
-Official Documentation: http://bobsguides.com/caseinsensitiveurls-tutorial.html
+Official Documentation: https://bobsguides.com/caseinsensitiveurls-tutorial.html
 
 Bugs and Feature Requests: https://github.com:BobRay/CaseInsensitiveURLs
 
-Questions: http://forums.modx.com
+Questions: https://forums.modx.com
 
 Created by MyComponent

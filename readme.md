@@ -1,10 +1,14 @@
-CaseInsensitiveURLs Extra for MODx Revolution
+CaseInsensitiveURLs Extra for MODX Revolution
 =============================================
 
 
-**Author:** Bob Ray <http://bobsguides.com> [Bob's Guides](http://bobsguides.com)
+**Author:** Bob Ray [Bob's Guides](https://bobsguides.com)
 
-Documentation is available at [Bob's Guides](http://bobsguides.com/caseinsensitiveurls-tutorial.html)
+**Documentation:** [CaseInsensitiveUrls Docs](https://bobsguides.com/caseinsensitiveurls-tutorial.html)
+
+**Bugs and Requests:** [CaseInsensitiveUrls Issues](https://github.com/BobRay/CaseInsensitiveUrls/issues)
+
+**Questions about using CaseInsensitiveURLs** [MODX Forums](https://forums.modx.com)
 
 CaseInsensitiveURLs assumes that you are using Friendly URLs and that all your aliases are all lowercase.
 
