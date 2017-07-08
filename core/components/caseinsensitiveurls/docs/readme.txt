@@ -3,7 +3,7 @@ CaseInsensitiveURLs
 
 
 Author: Bob Ray <https://bobsguides.com>
-Copyright 2012-2017
+Copyright 2012-2017 Bob Ray
 
 Official Documentation: https://bobsguides.com/caseinsensitiveurls-tutorial.html
 
