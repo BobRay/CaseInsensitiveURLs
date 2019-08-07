@@ -2,7 +2,7 @@
 /**
  * plugins transport file for CaseInsensitiveURLs extra
  *
- * Copyright 2012-2017 Bob Ray <https://bobsguides.com>
+ * Copyright 2012-2019 Bob Ray <https://bobsguides.com>
  * Created on 12-20-2012
  *
  * @package caseinsensitiveurls
